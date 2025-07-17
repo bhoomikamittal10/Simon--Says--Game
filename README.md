@@ -14,7 +14,7 @@ Simon Says is a classic memory-based game built using HTML, CSS, and JavaScript.
 
 - HTML – Markup for the game layout  
 - CSS – Styling and animations  
-- *avaScript – Game logic and interactivity
+- JavaScript – Game logic and interactivity
 
 ## 🎯 How to Play
 
